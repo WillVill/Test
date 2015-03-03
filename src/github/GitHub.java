@@ -15,6 +15,8 @@ public class GitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("noob shit");    }
+        System.out.println("noob shit");   
+        System.out.println("it all worked out in the end");
+    }
     
 }
